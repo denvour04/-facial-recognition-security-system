@@ -1,5 +1,5 @@
 # -facial-recognition-security-system
-Arduino + Teachable Machine-based security system using facial recognition
+
 👁️🔐 Facial Recognition Security System
 
 This project combines Arduino, Python, and Teachable Machine to create a facial recognition security system. If a recognized face is detected, a green light turns on. If not, a password must be entered — or a buzzer will sound on failure.
